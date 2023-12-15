@@ -11,6 +11,7 @@ height: 1300px;
 }
 #hero-container{
     background-image: url('336262525_932859634509760_4143803620203702534_n.jpg');
+    object-fit: fill;
     
 }
 
