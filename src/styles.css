@@ -2,16 +2,15 @@
     background-image: url('348468216_882047699975030_3510235272842988101_n.jpg');
     height: 450px;
     background-repeat: no-repeat;
-    object-fit: cover;
+    
     min-width: 375px;
     max-width: 425px;
 }
-
+/* 
 #hero-text-container{
     background-color:transparent;
-    height:200px;
+    height:100px;
     width: 40%;
-    text-wrap: wrap;
-    margin-top: 120px;
     color: white;
-}
+    margin-top: 40px ;
+} */
